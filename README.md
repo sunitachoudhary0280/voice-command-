@@ -26,3 +26,18 @@ webbrowser: For opening web pages in the default browser.
 os and platform: For interacting with the operating system.
 time and pyautogui: For automating keyboard actions and controlling the browser.
 subprocess: For opening the LinkedIn app on Windows.
+
+
+Usage
+Run the Main Script:
+
+python main.py
+
+
+Give Voice Commands:
+
+Open Browser: Say "open browser" to open Google Chrome with the URL https://www.google.com.
+Open YouTube: Say "open YouTube" to open YouTube in Google Chrome.
+Play a Song: Say "play a song" and then specify the song name when prompted. It will search and play the song on YouTube.
+Open LinkedIn: Say "open LinkedIn" to open the LinkedIn app (Windows only).
+Exit: Say "exit" to stop the voice command service.
